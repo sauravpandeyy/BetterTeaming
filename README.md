@@ -4,7 +4,7 @@
   <img width="100" src="https://raw.githubusercontent.com/sauravpandeyy/BetterTeaming/main/assets/bt-logo.png" align="right" style="margin-left: 20px;">
 </p>
 
-<p>A simple Discord bot built for helping people <b>find teammates</b> to participate in <b>Competitions and Hackathons</b>.</p>
+<p>A simple Discord bot built with discord.py using modern Discord interactions: slash commands, modals, buttons, and persistent views. It aims to help people find teammates to participate in Competitions and Hackathons.</p>
 
 ![Python Version](https://img.shields.io/badge/-Python_3.11-646464?style=flat)
 [![Discord.py](https://img.shields.io/badge/-Made_with_discord.py-646464?style=flat)](https://discordpy.readthedocs.io/)
