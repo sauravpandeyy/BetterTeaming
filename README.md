@@ -1,14 +1,17 @@
 # <p align="center">BetterTeaming Discord Bot</p>
 
-<p align="center">A simple discord bot built for helping people <b>find teammates</b> to participate in <b>Competitions and Hackathons</b>.</p>
+<p align="left">
+  <img width="100" src="https://raw.githubusercontent.com/sauravpandeyy/BetterTeaming/main/assets/bt-logo.png" align="right" style="margin-left: 20px;">
+</p>
 
-<div align="center">
+<p>A simple Discord bot built for helping people <b>find teammates</b> to participate in <b>Competitions and Hackathons</b>.</p>
 
-![Python Version](https://img.shields.io/badge/-Python_3.11-blue?style=flat)
-![Discord.py](https://img.shields.io/badge/-Made_with_discord.py-646464?style=flat)
-[![BetterTeaming Invite](https://img.shields.io/badge/-Invite_BetterTeaming_Bot-ffdd00?style=flat)](https://discord.com/oauth2/authorize?client_id=1487079107446571018&permissions=67488832&scope=bot%20applications.commands "Click here to invite the bot to your discord server")
-
-</div>
+![Python Version](https://img.shields.io/badge/-Python_3.11-646464?style=flat)
+[![Discord.py](https://img.shields.io/badge/-Made_with_discord.py-646464?style=flat)](https://discordpy.readthedocs.io/)
+[![GitHub License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](https://github.com/sauravpandeyy/BetterTeaming/blob/main/LICENSE)
+![Open-Source](https://img.shields.io/badge/-Open_Source-green?style=flat)
+[![BetterTeaming Invite](https://img.shields.io/badge/-Click_here_to_Invite_BetterTeaming_Bot-ffdd00?style=flat)](https://discord.com/oauth2/authorize?client_id=1487079107446571018&permissions=67488832&scope=bot%20applications.commands "Click here to invite BetterTeaming Bot to your Discord Server")
+[![BetterTeaming Support Community Server](https://img.shields.io/badge/-BetterTeaming_Support_Server-5865f2?style=flat)](https://discord.gg/xh6ereusMh "Click here to join BetterTeaming Support Discord Server")
 
 ## BetterTeaming Commands
 
@@ -20,16 +23,21 @@ Commands | Description
 ## Build your own BetterTeaming Bot
 
 1. Create a Discord application and bot at https://discord.com/developers/applications
-2. Under OAuth2 > URL Generator, select scopes `bot` and `applications.commands`.
-3. Under bot permissions, allow `Send Messages`, `Read Message History`, `Use Slash Commands`, `Manage Messages` (optional), `View Channels`.
+2. In OAuth2, under OAuth2 URL Generator, select scopes `bot` and `applications.commands`
+3. Under Bot Permissions, allow the following:
+    - `Send Messages`
+    - `Read Message History`
+    - `Use Slash Commands`
+    - `Manage Messages`
+    - `View Channels`
 4. Invite the bot to your server.
-5. Set environment variable:
+5. Create a `.env` file and set the environment variable:
      ```powershell
-     $env:DISCORD_BOT_TOKEN = "YOUR_BOT_TOKEN"
+     DISCORD_BOT_TOKEN = "YOUR_BOT_TOKEN"
      ```
-6. Install dependencies:
+6. Install prerequisites:
    ```powershell
-   pip install -U discord.py
+   pip install -r requirements.txt
    ```
 7. Run bot:
    ```powershell
