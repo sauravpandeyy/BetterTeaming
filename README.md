@@ -45,3 +45,11 @@ Commands | Description
 
 - Users must allow DMs from server members to receive notifications and connect.
 - Administrator can re-run `/setup` command to update channels.
+
+## BetterTeaming Support Community
+
+Join us on our [Official Discord Server](https://discord.gg/xh6ereusMh)!
+
+## License
+
+Released under the [MIT license](https://github.com/sauravpandeyy/BetterTeaming/blob/main/LICENSE).
