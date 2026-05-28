@@ -10,7 +10,7 @@
 [![Discord.py](https://img.shields.io/badge/-Made_with_discord.py-646464?style=flat)](https://discordpy.readthedocs.io/)
 [![GitHub License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](https://github.com/sauravpandeyy/BetterTeaming/blob/main/LICENSE)
 ![Open-Source](https://img.shields.io/badge/-Open_Source-green?style=flat)
-[![BetterTeaming Invite](https://img.shields.io/badge/-Click_here_to_Invite_BetterTeaming_Bot-ffdd00?style=flat)](https://discord.com/oauth2/authorize?client_id=1487079107446571018&permissions=67488832&scope=bot%20applications.commands "Click here to invite BetterTeaming Bot to your Discord Server")
+[![BetterTeaming Invite](https://img.shields.io/badge/-Invite_BetterTeaming_Bot-ffdd00?style=flat)](https://discord.com/oauth2/authorize?client_id=1487079107446571018&permissions=67488832&scope=bot%20applications.commands "Click here to invite BetterTeaming Bot to your Discord Server")
 [![BetterTeaming Support Community Server](https://img.shields.io/badge/-BetterTeaming_Support_Server-5865f2?style=flat)](https://discord.gg/xh6ereusMh "Click here to join BetterTeaming Support Discord Server")
 
 ## BetterTeaming Commands
